@@ -46,4 +46,4 @@
 <!---->
 ```
 
-效果图： ![https://github.com/chuyun/carousel/blob/master/img/xiaoguo.png)
+效果图： ![效果图](https://github.com/chuyun/carousel/blob/master/img/xiaoguo.png)
