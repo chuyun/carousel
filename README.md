@@ -46,4 +46,4 @@
 <!---->
 ```
 
-效果图： ![屏幕快照 2016-10-31 22.48.19](../../../../Users/jun/Pictures/ScreenCapture/屏幕快照 2016-10-31 22.48.19.png)
+效果图： ![https://github.com/chuyun/carousel/blob/master/img/xiaoguo.png)
